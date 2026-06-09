@@ -1,0 +1,6 @@
+{
+  "name": "FoodClick",
+  "description": "Sistema de Autoservicio y Gestión de Pedidos en Mesa en tiempo real para restaurantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
